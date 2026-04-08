@@ -16,3 +16,6 @@
 - Indicateurs de performances
 - Audit interne régulier.
 - Revu de direction
+
+- ![Status](https://img.shields.io/badge/status-active-success)
+![Audit](https://img.shields.io/badge/focus-IT_Audit-blue)
